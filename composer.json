@@ -1,0 +1,21 @@
+{
+    "name": "onlinepeyment/yii2-zarinpal",
+    "description": "zarinpal extension for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","zarinpal","onlinepeyment"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "RezaMansouri",
+            "email": "rezamansouri.01@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "onlinepeyment\\zarinpal\\": ""
+        }
+    }
+}
